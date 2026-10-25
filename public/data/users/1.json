@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "Алексей Мороз",
+  "username": "alex.m",
+  "email": "alex@example.com",
+  "phone": "+380 00 000 00 01",
+  "website": "example.com",
+  "company": {
+    "name": "North Studio"
+  },
+  "address": {
+    "city": "Киев"
+  }
+}

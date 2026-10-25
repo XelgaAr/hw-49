@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "name": "Денис Коваль",
+  "username": "denys.k",
+  "email": "denys@example.com",
+  "phone": "+380 00 000 00 03",
+  "website": "example.net",
+  "company": {
+    "name": "Paperwork"
+  },
+  "address": {
+    "city": "Одесса"
+  }
+}

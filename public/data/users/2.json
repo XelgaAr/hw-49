@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "name": "Мария Лисова",
+  "username": "maria.l",
+  "email": "maria@example.com",
+  "phone": "+380 00 000 00 02",
+  "website": "example.org",
+  "company": {
+    "name": "Forma"
+  },
+  "address": {
+    "city": "Львов"
+  }
+}
